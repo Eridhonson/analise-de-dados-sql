@@ -2,10 +2,6 @@
 
 Repositório pessoal para alocar e registrar alguns hobbies e posteriormente realizar algumas análises just for fun.
 
-## Objetivos
-
-Obter, manter e trabalhar com diferentes dados com propósito de gerar relatórios futuros que possam trazer feedbacks relevantes.
-
 Dados que estou registrando:
 ### Corridas
 - registro das datas das minhas corridas/caminhadas
@@ -22,6 +18,6 @@ Ainda sem registros
 
 ## Tecnologias usadas nesse repositório
 
-- SQL (sqlite)
+- SQL
 - Python (Tkinter)
 - RStudio + Quarto
