@@ -10,5 +10,6 @@ INSERT INTO corridas_strava VALUES('2026-03-12','8250','01:33');
 INSERT INTO corridas_strava VALUES('2026-03-13','4200','00:45');
 INSERT INTO corridas_strava VALUES('2026-03-13','6730','01:16');
 INSERT INTO corridas_strava VALUES('2026-03-23','10250','01:42');
+INSERT INTO corridas_strava VALUES('2026-03-25','4370','00:48');
 
 SELECT * FROM corridas_strava;
